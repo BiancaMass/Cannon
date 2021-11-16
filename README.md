@@ -1,10 +1,10 @@
 # Cannon
 ## About
-This directory contains the final project for the class Intelligent Search and Games, 2021.
-Maastricht University, Department of Data Science and Knowledge Engineering.
-Master in Data Science for Decision Making.
+This directory contains the final project for the class Intelligent Search and Games, 2021. <br/>
+Maastricht University, Department of Data Science and Knowledge Engineering.<br/>
+Master in Data Science for Decision Making.<br/>
 
-Author: Bianca M. Massacci - i6261625
+Author: Bianca M. Massacci
 
 ## Compiling 
 The repository contains the game "Cannon"
